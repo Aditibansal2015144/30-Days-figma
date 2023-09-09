@@ -1,0 +1,42 @@
+//LAYER 1//
+<div className="MacbookAir1" style={{width: 1280, height: 832, background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Ellipse1" style={{width: 144, height: 144, background: 'black', borderRadius: 9999}} />
+</div>
+
+//LAYER 2//
+<div className="MacbookAir2" style={{width: 1280, height: 832, paddingTop: 302, paddingBottom: 386, background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Ellipse1" style={{width: 144, height: 144, background: 'black', borderRadius: 9999}} />
+</div>
+
+//LAYER 3//
+<div className="MacbookAir3" style={{width: 1280, height: 832, paddingTop: 416, paddingBottom: 272, background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Ellipse1" style={{width: 144, height: 144, background: 'black', borderRadius: 9999}} />
+</div>
+
+//LAYER 4//
+<div className="MacbookAir4" style={{width: 1280, height: 832, paddingTop: 303, paddingBottom: 385, background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Ellipse1" style={{width: 144, height: 144, background: 'black', borderRadius: 9999}} />
+</div>
+
+//LAYER 5//
+<div className="MacbookAir5" style={{width: 1280, height: 832, paddingTop: 415, paddingBottom: 273, background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Ellipse1" style={{width: 144, height: 144, background: 'black', borderRadius: 9999}} />
+</div>
+
+//LAYER 6//
+<div className="MacbookAir6" style={{width: 1280, height: 832, background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Ellipse1" style={{width: 144, height: 144, background: 'black', borderRadius: 9999}} />
+</div>
+
+//LAYER 7//
+<div className="MacbookAir7" style={{width: 1280, height: 832, position: 'relative', background: 'white'}}>
+  <div className="Ellipse1" style={{width: 346, height: 346, left: 467, top: 243, position: 'absolute', background: 'black', borderRadius: 9999}} />
+  <div className="Hello" style={{width: 107, height: 44, left: 586, top: 394, position: 'absolute', color: 'white', fontSize: 40, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Hello</div>
+</div>
+
+//LAYER 8//
+<div className="MacbookAir8" style={{width: 1280, height: 832, position: 'relative', background: 'white'}}>
+  <div className="Ellipse1" style={{width: 1896, height: 1309, left: -314, top: -215, position: 'absolute', background: 'black', borderRadius: 9999}} />
+  <div className="Hello" style={{width: 107, height: 44, left: 586, top: 304, position: 'absolute', color: 'white', fontSize: 40, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Hello</div>
+  <div className="IAmAditiBansal" style={{left: 445, top: 411, position: 'absolute', color: 'white', fontSize: 48, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>I am Aditi Bansal</div>
+</div>
